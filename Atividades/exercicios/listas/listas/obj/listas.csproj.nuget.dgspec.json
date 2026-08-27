@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\457674\\estrutura de dados\\atividades\\exercicios\\listas\\listas\\listas.csproj": {}
+    "C:\\Users\\457674\\Estrutura-de-Dados-main\\Estrutura-de-Dados\\Atividades\\exercicios\\listas\\listas\\listas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\457674\\estrutura de dados\\atividades\\exercicios\\listas\\listas\\listas.csproj": {
+    "C:\\Users\\457674\\Estrutura-de-Dados-main\\Estrutura-de-Dados\\Atividades\\exercicios\\listas\\listas\\listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\457674\\estrutura de dados\\atividades\\exercicios\\listas\\listas\\listas.csproj",
+        "projectUniqueName": "C:\\Users\\457674\\Estrutura-de-Dados-main\\Estrutura-de-Dados\\Atividades\\exercicios\\listas\\listas\\listas.csproj",
         "projectName": "listas",
-        "projectPath": "C:\\Users\\457674\\estrutura de dados\\atividades\\exercicios\\listas\\listas\\listas.csproj",
+        "projectPath": "C:\\Users\\457674\\Estrutura-de-Dados-main\\Estrutura-de-Dados\\Atividades\\exercicios\\listas\\listas\\listas.csproj",
         "packagesPath": "C:\\Users\\457674\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\457674\\estrutura de dados\\atividades\\exercicios\\listas\\listas\\obj\\",
+        "outputPath": "C:\\Users\\457674\\Estrutura-de-Dados-main\\Estrutura-de-Dados\\Atividades\\exercicios\\listas\\listas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
