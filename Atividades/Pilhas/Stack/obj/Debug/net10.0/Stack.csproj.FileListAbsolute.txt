@@ -1,0 +1,14 @@
+C:\Users\457674\Estrutura-de-Dados-main\Stack\bin\Debug\net10.0\Stack.exe
+C:\Users\457674\Estrutura-de-Dados-main\Stack\bin\Debug\net10.0\Stack.deps.json
+C:\Users\457674\Estrutura-de-Dados-main\Stack\bin\Debug\net10.0\Stack.runtimeconfig.json
+C:\Users\457674\Estrutura-de-Dados-main\Stack\bin\Debug\net10.0\Stack.dll
+C:\Users\457674\Estrutura-de-Dados-main\Stack\bin\Debug\net10.0\Stack.pdb
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.AssemblyInfoInputs.cache
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.AssemblyInfo.cs
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.dll
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\refint\Stack.dll
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.pdb
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\Stack.genruntimeconfig.cache
+C:\Users\457674\Estrutura-de-Dados-main\Stack\obj\Debug\net10.0\ref\Stack.dll

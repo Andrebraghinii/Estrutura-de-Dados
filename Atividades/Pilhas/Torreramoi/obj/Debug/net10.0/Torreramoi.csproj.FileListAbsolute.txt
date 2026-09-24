@@ -1,0 +1,15 @@
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.AssemblyInfoInputs.cache
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.AssemblyInfo.cs
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.csproj.CoreCompileInputs.cache
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.sourcelink.json
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\bin\Debug\net10.0\Torreramoi.exe
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\bin\Debug\net10.0\Torreramoi.deps.json
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\bin\Debug\net10.0\Torreramoi.runtimeconfig.json
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\bin\Debug\net10.0\Torreramoi.dll
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\bin\Debug\net10.0\Torreramoi.pdb
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.dll
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\refint\Torreramoi.dll
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.pdb
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\Torreramoi.genruntimeconfig.cache
+C:\Users\457674\Estrutura-de-Dados-main\Estrutura-de-Dados\Atividades\Pilhas\Torreramoi\obj\Debug\net10.0\ref\Torreramoi.dll
