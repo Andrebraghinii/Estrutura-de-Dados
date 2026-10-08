@@ -1,0 +1,15 @@
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\bin\Debug\net10.0\Dicionario.exe
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\bin\Debug\net10.0\Dicionario.deps.json
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\bin\Debug\net10.0\Dicionario.runtimeconfig.json
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\bin\Debug\net10.0\Dicionario.dll
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\bin\Debug\net10.0\Dicionario.pdb
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.AssemblyInfo.cs
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.sourcelink.json
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.dll
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\refint\Dicionario.dll
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.pdb
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\Dicionario.genruntimeconfig.cache
+C:\Users\457674\Estrutura-de-Dados\Atividades\Dicionario\obj\Debug\net10.0\ref\Dicionario.dll
